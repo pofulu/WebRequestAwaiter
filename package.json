@@ -1,0 +1,20 @@
+﻿{
+    "name": "com.pofu.web-request-awaiter",
+    "displayName": "WebRequsetAwaiter",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "description": "Make UnityWebRequest awaitable",
+    "keywords": [
+        "async/await",
+        "async",
+        "awaiter",
+        "await",
+        "web",
+        "request",
+        "UnityWebRequest"
+    ],
+    "license": "MIT",
+    "category": "Unity",
+    "dependencies": {
+    }
+}
