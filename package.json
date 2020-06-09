@@ -14,7 +14,5 @@
         "UnityWebRequest"
     ],
     "license": "MIT",
-    "category": "Unity",
-    "dependencies": {
-    }
+    "category": "Unity"
 }
